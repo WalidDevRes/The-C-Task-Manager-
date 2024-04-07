@@ -13,7 +13,6 @@ void main (){
     printf("****************************************************" "\n" );
     printf("*Bienvenue dans mon gestionnaire de liste de taches*" "\n");
     printf("****************************************************" "\n");
-    sleep(2);
     system("cls");
     printf("********************Menu d'accueil******************" "\n");
     printf("1 - Ajouter une tache avec une date d'echeance." "\n" );
@@ -22,7 +21,7 @@ void main (){
     printf("4 - Supprimer une tache de la liste." "\n" );
     printf("****************************************************" "\n");
 
-    printf("Veuillez choisir test: " );
+    printf("Veuillez choisir entre ses 4 solution : " );
     scanf("%d", &choix);
     
     switch ( choix ){
