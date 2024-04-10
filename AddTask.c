@@ -3,17 +3,13 @@
 #include <string.h>
 
 void AddTask() {
-    char reponse[100];          
-    char tableau[20][100];     
+    char Tache[100];
+    
+    printf("Veuillez ajouter votre tache a faire: ");
+    scanf(" %[^\n]", Tache); 
+    printf("%s\n", Tache);
 
-    while (1){
-        printf("Veuillez mettre votre tache: ");
-        scanf("%s", reponse);
-        for (int i = 0; i < tableau; i++){
-            strcpy(tableau[i], reponse);
-            printf("%s", tableau[i]);  
-        }
-    }
+    return;
 }
    
 

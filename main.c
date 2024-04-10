@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <stdio.h>
 #include "FinishTask.c"
 #include "DeleteTask.c"
 #include "ShowAllTask.c"
