@@ -24,8 +24,6 @@ void main (){
 
     printf("Veuillez choisir entre ses 4 solution : " );
     scanf("%d", &choix);
-
-   printf("Hello git Hub from vscode")
     
     switch ( choix ){
     case 1:
