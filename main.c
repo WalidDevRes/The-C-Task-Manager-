@@ -12,7 +12,7 @@ void main (){
 
     system("cls");
     printf("****************************************************" "\n" );
-    printf("*Bienvenue dans mon gestionnaire de liste de taches*" "\n");
+    printf("*Bienvenue dans mon gestionnaire de liste de tache*" "\n");
     printf("****************************************************" "\n");
     system("cls");
     printf("********************Menu d'accueil******************" "\n");
