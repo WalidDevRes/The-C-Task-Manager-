@@ -24,6 +24,9 @@ void main (){
 
     printf("Veuillez choisir entre ses 4 solution : " );
     scanf("%d", &choix);
+
+    printf("Veuillez choisir entre ses 4 solution : " );
+    scanf("%d", &choix);
     
     switch ( choix ){
     case 1:
